@@ -7,7 +7,7 @@
     "gulp": "^3.9.0",
     "gulp-util": "^3.0.6",
     "lodash": ">=4.17.11",
-    "yamljs": "^0.2.4"
+    "yamljs": "^0.3.0"
   },
   "devDependencies": {},
   "scripts": {
