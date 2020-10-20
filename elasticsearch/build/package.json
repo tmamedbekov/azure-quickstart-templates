@@ -4,7 +4,7 @@
   "description": "Elasticsearch Azure Resource Manager (ARM) Template Build Script",
   "main": "gulp build",
   "dependencies": {
-    "gulp": "^3.9.0",
+    "gulp": "^4.0.0",
     "gulp-util": "^3.0.6",
     "lodash": ">=4.17.11",
     "yamljs": "^0.2.4"
